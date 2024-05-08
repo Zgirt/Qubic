@@ -2,6 +2,8 @@
 HiveOS - AMD Installation
 
 curl -fsSl https://poolsolution.s3.eu-west-2.amazonaws.com/amdtest.sh | bash -s
+
+
 using this script will update drivers/download rocm/hip
 
 
