@@ -2,10 +2,10 @@
 HiveOS - AMD Installation
 
 curl -fsSl https://poolsolution.s3.eu-west-2.amazonaws.com/amdtest.sh | bash -s
-using the above script will update drivers/download rocm/hip
+using this script will update drivers/download rocm/hip
 
 
-Use the below download link for ur Flightsheet:
+Use the download link for ur Flightsheet:
 https://github.com/Zgirt/Qubic/releases/download/qubicminer/amdqlab.tar.gz
 
 
