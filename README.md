@@ -1,5 +1,5 @@
 # Qubic
-HiveOS - AMD Installation
+HiveOS - AMD Installation (BETA version)
 
 curl -fsSl https://poolsolution.s3.eu-west-2.amazonaws.com/amdtest.sh | bash -s
 
